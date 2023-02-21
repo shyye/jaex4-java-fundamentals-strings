@@ -8,6 +8,7 @@
 - Open the root directory of the project in IntelliJ
 - Implement the requirements listed in comments in the `./src/main/java/com.booleanuk/core/Exercise.java` file
 - When ready to test your solution, open the `./src/test/java/com.booleanuk/core/ExerciseTest.java` file and click a "Run Test" button. You can either run the entire test suite via figure 1 in the screenshot below, or run a specific test via figure 2.
+- There is extension work in the `./src/main/java/com.booleanuk/extension/Extension.java` file and tests in the `./src/test/java/com.booleanuk/extension/ExtensionTest.java` file for when you finish the core exercise
 
 ![](./assets/run-a-test.PNG)
 
