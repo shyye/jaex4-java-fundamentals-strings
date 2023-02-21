@@ -1,10 +1,7 @@
-# Java Exercise Template
-
-This template contains a `Sample` class and a `SampleTest` class. When making changes, ensure you change the project
-name in the [settings.gradle](./settings.gradle) file.
+# Java Strings
 
 ## Learning Objectives
-- Sample learning objective
+- Use common Java string operations to manipulate a URL
 
 ## Set up instructions
 - Fork this repository and clone the forked version to your machine
